@@ -28,8 +28,7 @@ python retrieval.py
 python casenote.py
 python -c "from pathlib import Path; Path('service.log').unlink(missing_ok=True)"
 ```
-
-Replace `<YOUR_USERNAME>` with your GitHub username after creating the repository. On macOS or Linux, activate the environment with `source .venv/bin/activate` instead of the PowerShell activation command.
+ On macOS or Linux, activate the environment with `source .venv/bin/activate` instead of the PowerShell activation command.
 
 Start the service in Terminal 1:
 
